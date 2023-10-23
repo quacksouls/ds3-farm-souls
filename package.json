@@ -1,6 +1,6 @@
 {
   "name": "ds3-farm-souls",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "Farming souls in Dark Souls III",
   "main": "index.js",
   "scripts": {
