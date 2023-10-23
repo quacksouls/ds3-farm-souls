@@ -17,3 +17,4 @@
 - [Profaned Capital](doc/profaned-capital.md)
 - [Anor Londo](doc/anor-londo.md)
 - [Consumed King's Garden](doc/consumed-kings-garden.md)
+- [Untended Graves](doc/untended-graves.md)
