@@ -18,3 +18,4 @@
 - [Anor Londo](doc/anor-londo.md)
 - [Consumed King's Garden](doc/consumed-kings-garden.md)
 - [Untended Graves](doc/untended-graves.md)
+- [Dark Firelink Shrine](doc/dark-firelink-shrine.md)
