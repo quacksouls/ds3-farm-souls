@@ -28,3 +28,4 @@
 - [Painted World of Ariandel](doc/painted-world-ariandel.md)
 - [Ringed City: Halflight](doc/halflight.md)
 - [Ringed City: Preachers](doc/preachers.md)
+- [Multiplayer](doc/multiplayer.md)
