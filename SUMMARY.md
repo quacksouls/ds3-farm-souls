@@ -13,3 +13,4 @@
 - [Demon Ruins](doc/demon-ruins.md)
 - [Irithyll of the Boreal Valley: pre-Pontiff](doc/irithyll-pre-pontiff.md)
 - [Irithyll of the Boreal Valley: post-Pontiff](doc/irithyll-post-pontiff.md)
+- [Irithyll Dungeon](doc/irithyll-dungeon.md)
