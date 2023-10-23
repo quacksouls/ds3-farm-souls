@@ -22,3 +22,4 @@
 - [Lothric Castle](doc/lothric-castle.md)
 - [Dragon Barracks](doc/dragon-barracks.md)
 - [Archdragon Peak](doc/archdragon-peak.md)
+- [Dragon-Kin Mausoleum](doc/dragon-kin-mausoleum.md)
