@@ -24,3 +24,4 @@
 - [Archdragon Peak](doc/archdragon-peak.md)
 - [Dragon-Kin Mausoleum](doc/dragon-kin-mausoleum.md)
 - [Great Belfry](doc/great-belfry.md)
+- [Grand Archives](doc/grand-archives.md)
