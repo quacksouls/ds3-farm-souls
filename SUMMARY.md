@@ -16,3 +16,4 @@
 - [Irithyll Dungeon](doc/irithyll-dungeon.md)
 - [Profaned Capital](doc/profaned-capital.md)
 - [Anor Londo](doc/anor-londo.md)
+- [Consumed King's Garden](doc/consumed-kings-garden.md)
