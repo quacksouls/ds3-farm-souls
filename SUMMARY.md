@@ -21,3 +21,4 @@
 - [Dark Firelink Shrine](doc/dark-firelink-shrine.md)
 - [Lothric Castle](doc/lothric-castle.md)
 - [Dragon Barracks](doc/dragon-barracks.md)
+- [Archdragon Peak](doc/archdragon-peak.md)
